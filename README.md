@@ -16,7 +16,10 @@ oracle
 javascript 
 maitriser le langage java
 ayant une experience d'utilisation sql et le langage R 
-bal bla bla 
+bal bla bla
+f
+f
+f 
 
 ```
 
