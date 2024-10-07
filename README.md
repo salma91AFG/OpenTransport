@@ -12,6 +12,9 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 A définir
+maitriser le langage java
+ayant une experience d'utilisation sql et le langage R 
+bal bla bla 
 
 ```
 
