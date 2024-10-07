@@ -11,7 +11,9 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-A définir
+maitriser c# .net
+oracle
+javascript 
 maitriser le langage java
 ayant une experience d'utilisation sql et le langage R 
 bal bla bla 
